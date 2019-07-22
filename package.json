@@ -6,8 +6,8 @@
     "start": "node ./bin/www"
   },
   "engines": {
-    "node": ">=10.15.3",
-    "npm": ">=6.1.0"
+    "node": ">=11.0.0",
+    "npm": ">=6.4.0"
   },
   "dependencies": {
     "body-parser": "~1.18.3",
@@ -16,7 +16,7 @@
     "express": "~4.16.1",
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
-    "pug": "2.0.0-beta11",
+    "pug": "^2.0.4",
     "serve-favicon": "~2.5.0"
   }
 }
